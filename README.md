@@ -1,6 +1,5 @@
 <h1 align="center">Converting Python to EXE</h1>
 <p align="center">A Python EXE Converter written in Python 3.</p>
-This version of the Converter only supports **Windows**.
 
 # Features
  - このプログラムはPyinstallerを使用しています。
